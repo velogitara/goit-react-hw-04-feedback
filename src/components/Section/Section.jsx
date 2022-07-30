@@ -47,5 +47,5 @@ Section.propTypes = {
   title: PropTypes.string.isRequired,
   onClick: PropTypes.func.isRequired,
   total: PropTypes.number.isRequired,
-  posFeed: PropTypes.number,
+  positiveFeed: PropTypes.number,
 };
